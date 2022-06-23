@@ -1,0 +1,8 @@
+#intro img{
+    height: 550px;
+}
+@media  (max-width:600px) {
+   #intro img{
+        height: 200px;
+    }
+}
